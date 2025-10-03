@@ -11,6 +11,7 @@ namespace M17C_ex01
         static void Main(string[] args)
         {
             Console.WriteLine("Eu sou O MIGUEL GOMES, PARE DE ME CONFUNDIR COM O MENDES POR FAVOR");
+            Console.WriteLine("O Magalhães é o poderosão do git");
         }
     }
 }
